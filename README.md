@@ -1,6 +1,6 @@
 # Tuberculosis Detection Using Chest X-Ray Images
 
-This project uses deep learning to detect tuberculosis in chest X-ray images.
+This repository contains a machine learning project designed to detect Tuberculosis (TB) using medical imaging data from the Kaggle dataset. The goal is to build a robust and accurate predictive model to assist in early detection of Tuberculosis.
 
 ## Folder Structure
 - `data_raw/`: Raw dataset from Kaggle.
